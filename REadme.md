@@ -26,3 +26,5 @@ This project is an interactive Power BI dashboard created to analyze sales perfo
 
 ## Dashboard Preview
 
+![Dashboard](dashboard-preview.png)
+
